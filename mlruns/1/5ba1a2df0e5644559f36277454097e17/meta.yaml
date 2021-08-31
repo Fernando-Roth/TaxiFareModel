@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fernando/code/Fernando-Roth/TaxiFareModel/mlruns/1/5ba1a2df0e5644559f36277454097e17/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 5ba1a2df0e5644559f36277454097e17
+run_uuid: 5ba1a2df0e5644559f36277454097e17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1630420962838
+status: 1
+tags: []
+user_id: unknown
